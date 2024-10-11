@@ -1,8 +1,3 @@
-# Sistema de Contagem de Visitantes em Eventos
+# Reconhecimento Facial em Tempo Real
 
-Utilidade: Monitorar e contar em tempo real o número de pessoas entrando e saindo de eventos grandes, como concertos ou feiras.
-Benefício: Facilita o controle de multidões, melhorando a segurança e otimizando o gerenciamento de eventos.
-
-# Sistema de Contagem e Identificação de Pessoas em Larga Escala - SCIPLE
-
-# Large-Scale People Counting and Identification System - LSPCIS
+Está aplicação realiza o reconhecimento facial em tempo real a partir de uma foto registrada pelo usuário. Ela utiliza a técnica de extração de características para identificar pessoas em vídeos ao vivo.
